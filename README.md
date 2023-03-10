@@ -1,5 +1,5 @@
 # Shopping Cart
-[11/11] [Fundamentos do Desenvolvimento Web](https://github.com/G-Alves1/Trybe/tree/main/01_Fundamentos-do-Desenvolvimento-Web)
+[11/11] [Fundamentos do Desenvolvimento Web](https://github.com/xitusz/Trybe/tree/main/01_Fundamentos-do-Desenvolvimento-Web)
 
 ---
 
@@ -43,7 +43,7 @@
 
 * Clone o repositório
   ```sh
-    git clone git@github.com:G-Alves1/shopping-cart.git
+    git clone git@github.com:xitusz/shopping-cart.git
   ```
 
 ---

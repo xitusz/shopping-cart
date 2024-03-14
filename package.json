@@ -32,7 +32,7 @@
     "mochawesome-merge": "4.0.3",
     "mochawesome-report-generator": "4.1.0",
     "node-fetch": "^2.6.6",
-    "stylelint": "13.8.0",
+    "stylelint": "16.2.1",
     "stylelint-config-standard": "20.0.0"
   }
 }
